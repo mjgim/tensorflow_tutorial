@@ -10,3 +10,6 @@
 5. Mean Square Error 2
 6. Cross Entropy
 7. Binary Classification
+
+
+## [Download](https://mjgim.icim.or.kr/data/study_group_2017.zip)
