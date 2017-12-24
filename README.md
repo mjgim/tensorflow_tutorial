@@ -2,6 +2,11 @@
 
 ## Code for Tutorial `Python` and `TensorFlow`
 
+0. MNIST
 1. Why TensorFlow
 2. Basic
 3. Gradient Decent
+4. Mean Square Error
+5. Mean Square Error 2
+6. Cross Entropy
+7. Binary Classification
