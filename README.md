@@ -1,6 +1,7 @@
 # [2017년 산업수학 스터디그룹](sgi.icim.or.kr), NIMS Study Group with Industry
 
-12월 26이 27일 
+12월 26이 27일
+
 ##Code for Tutorial `Python` and `TensorFlow`
 
 0. MNIST
