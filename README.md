@@ -2,7 +2,7 @@
 
 12월 26일 27일
 
-##Code for Tutorial `Python` and `TensorFlow`
+## Code for Tutorial `Python` and `TensorFlow`
 
 0. MNIST
 1. Why TensorFlow
