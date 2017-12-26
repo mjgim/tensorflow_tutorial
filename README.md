@@ -14,7 +14,7 @@
 7. Binary Classification
 
 
-## [Download](https://mjgim.icim.or.kr/data/study_group_2017.zip)
+## Code [Download](https://mjgim.icim.or.kr/data/study_group_2017.zip)
 
 ## 실습 종료 후 간단한 퀴즈를 진행합니다.
 
