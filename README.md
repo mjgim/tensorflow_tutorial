@@ -22,4 +22,4 @@
 
 - https://kahoot.it
 
-![](http://educatus.ca/wordpress/wp-content/uploads/2015/01/starbucks300px.png)
+![](data/sb.png)
