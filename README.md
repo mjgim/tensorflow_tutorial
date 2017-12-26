@@ -1,3 +1,5 @@
+주소 : github.com/mjgim/study_group_2017
+
 # [2017년 산업수학 스터디그룹](http://sgi.icim.or.kr), [NIMS](https://www.nims.re.kr/) Study Group with Industry
 
 12월 26일 27일
