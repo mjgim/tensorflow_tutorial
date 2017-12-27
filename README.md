@@ -17,11 +17,3 @@
 
 
 ## Code [Download](https://mjgim.icim.or.kr/data/study_group_2017.zip)
-
-## 실습 종료 후 간단한 퀴즈를 진행합니다.
-
-- 핸드폰으로 접속
-
-- https://kahoot.it
-
-![](data/sb.png)
