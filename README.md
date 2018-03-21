@@ -7,6 +7,8 @@ Tutorial I
 
 24th, March, 2018
 
+### 2017년 NIMS 산업수학 스터디그룹 실습 및 튜토리얼에서 진행된 code 수정
+
 ## Code for Tutorial `Python` and `TensorFlow`
 
 0. Jupyter notebook
@@ -18,6 +20,6 @@ Tutorial I
 6. Cross Entropy
 7. Binary Classification with Multilayer Perceptron
 
-Tutorial 종료 후 Kahoot 진행 예정
+## Tutorial 종료 후 Kahoot 진행 예정
 
 ![](data/sb.png)
