@@ -1,18 +1,23 @@
-주소 : github.com/mjgim/study_group_2017
+주소 : github.com/mjgim/olt2018
 
-**추후 업데이트는 mjgim.icim.or.kr 에서 진행 할 예정**
+[Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
 
-# [2017년 산업수학 스터디그룹](http://sgi.icim.or.kr), [NIMS](https://www.nims.re.kr/) Study Group with Industry
+Tutorial I
+    - Deep learning: An Introduction for Mathematicians I
 
-12월 26일 27일
+24th, March, 2018
 
 ## Code for Tutorial `Python` and `TensorFlow`
 
-0. MNIST
-1. Why TensorFlow
+0. Jupyter notebook
+1. Why Python and TensorFlow
 2. Basic
-3. Gradient Descent
-4. Mean Square Error
-5. Mean Square Error 2
+3. Perceptron and Gradient Descent
+4. Single-variable linear regression
+5. Regression with Multilayer Perceptron
 6. Cross Entropy
-7. Binary Classification
+7. Binary Classification with Multilayer Perceptron
+
+Tutorial 종료 후 Kahoot 진행 예정
+
+![](data/sb.png)
