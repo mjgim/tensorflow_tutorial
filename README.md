@@ -7,7 +7,7 @@ Tutorial I
 
 24th, March, 2018
 
-### 2017년 NIMS 산업수학 스터디그룹 실습 및 튜토리얼에서 진행된 code 수정
+*[2017년 NIMS 산업수학 스터디그룹](sgi.icim.or.kr) 실습 및 튜토리얼에서 진행된 code 수정*
 
 ## Code for Tutorial `Python` and `TensorFlow`
 
