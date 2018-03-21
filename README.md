@@ -1,9 +1,9 @@
 주소 : https://github.com/mjgim/olt2018_tensorflow
 
-[Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
+# [Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
 
 Tutorial I
-    - Deep learning: An Introduction for Mathematicians I
+ - Deep learning: An Introduction for Mathematicians I
 
 24th, March, 2018
 
