@@ -1,4 +1,4 @@
-주소 : github.com/mjgim/olt2018
+주소 : https://github.com/mjgim/olt2018_tensorflow
 
 [Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
 
