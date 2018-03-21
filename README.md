@@ -2,10 +2,10 @@
 
 # [Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
 
-Tutorial I
+## Tutorial I
  - Deep learning: An Introduction for Mathematicians I
 
-24th, March, 2018
+## 24th, March, 2018
 
 *[2017년 NIMS 산업수학 스터디그룹](sgi.icim.or.kr) 실습 및 튜토리얼에서 진행된 code 수정*
 
