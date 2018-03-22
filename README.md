@@ -2,7 +2,7 @@
 
 # [Optimization and Learning Tutorial 2018](http://event.combinatorics.kr/olt2018)
 
-## Tutorial I
+## Tutorial I: 국가수리과학연구소 김민중 
  - Deep learning: An Introduction for Mathematicians I
 
 ## 24th, March, 2018
@@ -21,6 +21,7 @@
 
 *[2017년 NIMS 산업수학 스터디그룹](sgi.icim.or.kr)에서 사용한 code를 수정하였음*
 
-## Tutorial 종료 후 Kahoot 진행 예정
+## Tutorial 종료 후 Kahoot! 진행 예정
 
 ![](data/sb.png)
+
