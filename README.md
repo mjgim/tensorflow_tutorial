@@ -33,14 +33,3 @@
 ```terminal
 git clone https://github.com/mjgim/olt2018_tensorflow.git
 ```
-
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
