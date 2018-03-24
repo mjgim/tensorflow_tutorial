@@ -25,3 +25,11 @@
 
 ![](data/sb.png)
 
+## Wifi password : math311abc
+
+## https://jupyter.nims.re.kr/ 접속 및 로그인
+
+## New > terminal
+```terminal
+git clone https://github.com/mjgim/olt2018_tensorflow.git
+```
