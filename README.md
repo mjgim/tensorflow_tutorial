@@ -26,5 +26,5 @@ GSE72911_98_PrimaryTumors_GPL18224
 
 ## New > terminal
 ```terminal
-git clone https://github.com/mjgim/tensorflow_tutorial.git
+git clone https://github.com/mjgim/tensorflow_tutorial
 ```
