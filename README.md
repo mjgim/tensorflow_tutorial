@@ -4,7 +4,9 @@
 
 ## Tutorial I: 국가수리과학연구소 김민중 
 
-## 2nd, November, 2018
+## 2nd - 3rd, November, 2018
+
+[강의자료](https://s3.ap-northeast-2.amazonaws.com/mjgim/lecture_note.pdf)
 
 ## Code for Tutorial `Python` and `TensorFlow`
 
@@ -28,3 +30,5 @@ GSE72911_98_PrimaryTumors_GPL18224
 ```terminal
 git clone https://github.com/mjgim/tensorflow_tutorial
 ```
+
+
